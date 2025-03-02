@@ -34,3 +34,8 @@ The recommendation engine operates as follows:
 - Finds books highly rated by those users.
 - Computes a weighted score and ranks results.
 - Extracts top 10 recommendations with book details.
+
+## Contents of the Repository :
+1. SQL code used to create the database
+2. Final report with detailed explanation on the project
+3. Personnalized guide on how to properly set-up metabase to query the database
